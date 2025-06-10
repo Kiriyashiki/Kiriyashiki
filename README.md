@@ -11,4 +11,4 @@ You can find my personal projets on this GitHub.
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue"> <img src="http://img.shields.io/badge/- jetbrains%20ide-purple?style=for-the-badge&logo=jetbrains&logoColor=white">
 
 ## My stats
-![MeijiRestored's Stats](https://github-readme-stats.vercel.app/api?username=MeijiRestored&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![MeijiRestored's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeijiRestored&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Kiriyashiki's Stats](https://github-readme-stats.vercel.app/api?username=Kiriyashiki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![Kiriyashiki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiriyashiki&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
