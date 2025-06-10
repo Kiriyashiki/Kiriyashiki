@@ -1,6 +1,6 @@
 # About me
 
-Hi, I am MeijiRestored! I am a Belgian second-year student in Computer Science at the Lens University Institute of Technology, in France. <img src="img/be.svg" style="width: 16px; border-radius:3px"> <img src="img/fr.svg" style="width: 16px; border-radius:3px">
+Hi, I am Kiriyashiki, a Belgian second-year student in Computer Science at the Lens University Institute of Technology, in France. <img src="img/be.svg" style="width: 16px; border-radius:3px"> <img src="img/fr.svg" style="width: 16px; border-radius:3px">
 
 You can find my personal projets on this GitHub.
 
